@@ -26,15 +26,7 @@ The model achieves:
 
 ## 📸 Prototype Results
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8080f663-8ee7-4601-8d41-f46cdc60f0bd" 
-       alt="Prototype Results" 
-       style="width: 100%; max-width: 800px; height: auto;">
-</p>  
-
-The prototype demonstrates successful classification of waste into various categories, showcasing high accuracy and speed under controlled conditions.
-
----
+I can't display the prototype results at this time as they are currently undergoing patent approval.
 
 ## 🗑️ Litter Detection Results
 
